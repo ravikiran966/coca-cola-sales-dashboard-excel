@@ -160,13 +160,8 @@ Users can instantly filter all PivotTables and charts.
 ## 📷 Dashboard Preview
 
 
-Dashboard.png
-```
+<img width="1096" height="528" alt="Dashboard" src="https://github.com/user-attachments/assets/496b1998-95ca-4aaf-b41a-56038a3e5e94" />
 
-Dashboard.png
-
-
-```
 
 
 
