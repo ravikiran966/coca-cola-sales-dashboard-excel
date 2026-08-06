@@ -160,7 +160,7 @@ Users can instantly filter all PivotTables and charts.
 ## 📷 Dashboard Preview
 
 
-
+Dashboard.png
 ```
 
 Dashboard.png
