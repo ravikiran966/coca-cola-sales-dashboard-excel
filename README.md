@@ -163,8 +163,8 @@ Users can instantly filter all PivotTables and charts.
 
 ```
 
+Dashboard.png
 
-<a img width="1096" height="528" alt="Dashboard" src="https://github.com/user-attachments/assets/f9bda50d-eafc-44d9-b263-e3b50c7396fa" /a>
 
 ```
 
@@ -188,8 +188,6 @@ Coca-Cola-Sales-Analysis/
 │   └── dashboard.png
 │
 ├── README.md
-│
-└── LICENSE
 ```
 
 ---
